@@ -1,0 +1,6 @@
+[submodule "NBA-Players-Stats-Analysis"]
+	path = NBA-Players-Stats-Analysis
+	url = https://github.com/olimarco/NBA-Players-Stats-Analysis.git
+[submodule "Galactic-Colonization"]
+	path = Galactic-Colonization
+	url = https://github.com/olimarco/Galactic-Colonization.git
