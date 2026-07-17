@@ -18,6 +18,11 @@ Below are the main projects currently linked in this repository:
     *   **Description:** A complex space exploration simulator emphasizing resource management and procedural universe generation. It heavily utilizes graph data structures and advanced search algorithms (such as DFS with backtracking) to navigate uncharted galactic sectors efficiently.
     *   **Tech Stack:** Python, Object-Oriented Programming (OOP).
 
+*   **[Hidden Treasures](./Hidden-Treasures)**
+    *   **Domain:** Software Architecture & Game Agent.
+    *   **Description:** A strategic, turn-based card game played on a 6x6 grid, emphasizing resource management (Action Points) and an adapted poker-style scoring system. Built upon a rigorous Model-View-Controller (MVC) architecture, the project features a custom graphical user interface and includes a single-player mode powered by a heuristic state machine bot capable of memory retention and dynamic strategy pivoting.
+    *   **Tech Stack:** Python, MVC Pattern, GUI Programming (breezypythongui, Tkinter).
+      
 ## Core Competencies Demonstrated
 
 Across these repositories, you will find practical applications of:
